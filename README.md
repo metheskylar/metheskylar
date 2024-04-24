@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shivam (@metheskylar).
 - 👀 I’m interested in Software Develoment.
-- 🌱 I’m currently learning Android development.
 - 💞️ I’m looking to collaborate on open source project.
 - 📫 How to reach me Mail["metheskylar@yahoo.com"].
 - ⚡ Fun fact: Not availble.
