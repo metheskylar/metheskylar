@@ -2,7 +2,6 @@
 - 👀 I’m a Software Developer.
 - 💞️ I’m looking to collaborate on open source project.
 - 📫 How to reach me Mail["metheskylar@yahoo.com"].
-- ⚡ Fun fact: AI won’t replace software developers.
 
 <!---
 metheskylar/metheskylar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
